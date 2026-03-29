@@ -2,10 +2,6 @@
 
 > A comprehensive guide to network security tools and techniques - from fundamentals to advanced penetration testing
 
-![Network Security](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green)
-![Tools](https://img.shields.io/badge/Tools-Wireshark%20%7C%20Nmap%20%7C%20Kali-blue)
-![Last Updated](https://img.shields.io/badge/Updated-March%202026-orange)
-
 ## 📚 Repository Structure
 
 ```
@@ -193,21 +189,19 @@ dns.qry.name contains "example"
 > - Learning in controlled lab environments
 > - CTF competitions
 > - Academic research
->
 > Always obtain proper authorization before testing any network you don't own.
 
 ## 📊 Progress Tracker
 
-| Topic | Status | Notes |
-|-------|--------|-------|
-| Networking Basics | ⬜ | |
-| Nmap Basics | ⬜ | |
-| Nmap Advanced | ⬜ | |
-| Wireshark Basics | ⬜ | |
-| Wireshark Advanced | ⬜ | |
-| Ettercap/MITM | ⬜ | |
-| CTF Challenges | ⬜ | |
-| Lab Completion | ⬜ | |
+| Topics 
+
+| Networking Basics 
+| Nmap Basics 
+| Nmap Advanced
+| Wireshark Basics 
+| Wireshark Advanced 
+| Ettercap/MITM
+| CTF Challenges 
 
 ## 🤝 Contributing
 
@@ -215,8 +209,8 @@ Feel free to add your own notes, labs, and challenges! Create a PR or open an is
 
 ## 📧 Connect
 
-- GitHub: [YourUsername]
-- LinkedIn: [Your LinkedIn]
+- GitHub: https://github.com/SZ03-C
+- LinkedIn: https://www.linkedin.com/in/shaguftha-zabeen-a41371379/
 
 ---
 
