@@ -4,9 +4,9 @@
 
 **Lab Environment:**
 
-- Attacker: Kali Linux (192.168.XX.XXX)
-- Target: Metasploitable2 (192.168.XX.XXX) - *If available*
-- Network: Host-Only (192.168.XX.XXX/XX)
+- Attacker: Kali Linux (192.168.56.101)
+- Target: Metasploitable2 (192.168.56.102) - *If available*
+- Network: Host-Only (192.168.56.0/24)
 
 **Duration:** 30-45 minutes
 
