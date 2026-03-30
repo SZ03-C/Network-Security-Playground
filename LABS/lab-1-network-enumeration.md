@@ -3,6 +3,7 @@
 **Objective:** Learn to discover hosts and enumerate services on a network using Nmap
 
 **Lab Environment:**
+
 - Attacker: Kali Linux (192.168.XX.XXX)
 - Target: Metasploitable2 (192.168.XX.XXX) - *If available*
 - Network: Host-Only (192.168.XX.XXX/XX)
