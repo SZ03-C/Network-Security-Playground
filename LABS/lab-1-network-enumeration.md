@@ -3,9 +3,9 @@
 **Objective:** Learn to discover hosts and enumerate services on a network using Nmap
 
 **Lab Environment:**
-- Attacker: Kali Linux (192.168.56.101)
-- Target: Metasploitable2 (192.168.56.102) - *If available*
-- Network: Host-Only (192.168.56.0/24)
+- Attacker: Kali Linux (192.168.XX.XXX)
+- Target: Metasploitable2 (192.168.XX.XXX) - *If available*
+- Network: Host-Only (192.168.XX.XXX/XX)
 
 **Duration:** 30-45 minutes
 
@@ -133,37 +133,6 @@ nmap -oX scan_results.xml 192.168.56.102
 nmap -oA full_scan 192.168.56.102
 ```
 
----
-
-## 📊 Results Template
-
-```
-═══════════════════════════════════════════════
-              NMAP SCAN RESULTS
-═══════════════════════════════════════════════
-
-Target: ____________________
-Date: ____________________
-Scanner: __________________
-
-OPEN PORTS:
-┌────────┬───────┬──────────────┐
-│  Port  │ State │   Service    │
-├────────┼───────┼──────────────┤
-│        │       │              │
-│        │       │              │
-└────────┴───────┴──────────────┘
-
-SERVICES DETECTED:
--
-
-POTENTIAL VULNERABILITIES:
--
-
-NOTES:
--
-═══════════════════════════════════════════════
-```
 
 ## 🎯 Challenge
 
