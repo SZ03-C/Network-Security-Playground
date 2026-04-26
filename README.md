@@ -75,32 +75,32 @@ Network-Security-Playground/
 
 ## 📖 Learning Roadmap
 
-### Week 1-2: Networking Fundamentals
+###  Networking Fundamentals
 - [ ] TCP/IP and OSI Models
 - [ ] Common ports and protocols
 - [ ] Subnetting basics
 - [ ] Lab: Setting up your penetration testing lab
 
-### Week 3-4: Nmap Mastery
+###  Nmap Mastery
 - [ ] Basic port scanning
 - [ ] Service version detection
 - [ ] OS fingerprinting
 - [ ] NSE scripts
 - [ ] [Lab: Network Enumeration](LABS/lab-1-network-enumeration.md)
 
-### Week 5-6: Wireshark Deep Dive
+###  Wireshark Deep Dive
 - [ ] Packet capture and display filters
 - [ ] Protocol analysis (HTTP, DNS, TCP)
 - [ ] Following streams
 - [ ] [Lab: Packet Analysis](LABS/lab-2-packet-analysis.md)
 
-### Week 7-8: Intermediate Attacks
+###  Intermediate Attacks
 - [ ] ARP spoofing basics
 - [ ] Ettercap usage
 - [ ] Man-in-the-middle attacks
 - [ ] [Lab: MITM Simulation](LABS/lab-3-mitn-attack-simulation.md)
 
-### Week 9-12: Advanced Topics
+###  Advanced Topics
 - [ ] Vulnerability scanning
 - [ ] Exploitation frameworks
 - [ ] Network traffic analysis for malware detection
